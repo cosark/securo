@@ -41,6 +41,10 @@ Open [http://localhost:3000](http://localhost:3000) and create an account. That'
   <img src="docs/screenshot.png" width="800" alt="Securo dashboard" />
 </p>
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Securo/)
+
 ## Features
 
 - Multi-account management with running balances
